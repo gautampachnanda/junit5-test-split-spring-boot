@@ -7,8 +7,7 @@ import org.junit.jupiter.api.Test;
 
 public class BaseUnitTest {
 	
-	@Test
-	@Tag("unit")
+	@UnitTest
 	public void testA() {
 		assertTrue(true);
 	}
