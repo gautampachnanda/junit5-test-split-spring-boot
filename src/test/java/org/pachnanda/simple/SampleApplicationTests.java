@@ -1,4 +1,4 @@
-package com.qvc.sample;
+package org.pachnanda.simple;
 
 import org.junit.Test;
 import org.junit.jupiter.api.Tag;

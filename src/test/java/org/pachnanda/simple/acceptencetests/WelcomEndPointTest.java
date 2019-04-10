@@ -1,4 +1,4 @@
-package com.qvc.sample.acceptencetests;
+package org.pachnanda.simple.acceptencetests;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;

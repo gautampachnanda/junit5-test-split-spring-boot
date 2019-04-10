@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.qvc</groupId>
-	<artifactId>sample</artifactId>
+	<artifactId>junit5-test-split-spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sample</name>
+	<name>junit5-test-split-spring-boot</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

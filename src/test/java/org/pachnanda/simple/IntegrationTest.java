@@ -1,4 +1,4 @@
-package com.qvc.sample;
+package org.pachnanda.simple;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
@@ -11,6 +11,6 @@ import org.junit.jupiter.api.Tag;
 @Target({ ElementType.TYPE, ElementType.METHOD })
 @Retention(RetentionPolicy.RUNTIME)
 @Tag("unit")
-public @interface UnitTest {
+public @interface IntegrationTest {
 
 }
