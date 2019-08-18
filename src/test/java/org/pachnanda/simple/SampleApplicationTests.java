@@ -9,10 +9,10 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 @ExtendWith(SpringExtension.class)
 @AutoConfigureMockMvc
 @SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT)
-public class SampleApplicationTests{
+public class SampleApplicationTests {
 
-	@IntegrationTest
-	public void contextLoads() {
-	}
+    @IntegrationTest
+    public void contextLoads() {
+    }
 
 }
